@@ -1,10 +1,15 @@
 ## Hi there 👋
 
+## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uladzislau-shershan/)](https://www.linkedin.com/in/uladzislau-shershan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/L1BER2Y)](https://t.me/L1BER2Y)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:xerdan8@gmail.com)](mailto:xerdan8@gmail.com)
 
-Was studied on the course:
+## About me:
+- I'm novice developer, looking for career opportunities.
+- Passed Java Enterprise Development course by IT-Academy
+
+## Was studied on the course:
 
 - Http-protocol:
     - Differences between **GET**, **POST**, **PUT**, **DELETE** requests.
@@ -64,7 +69,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
