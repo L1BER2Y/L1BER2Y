@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uladzislau-shershan/)](https://www.linkedin.com/in/uladzislau-shershan/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/L1BER2Y)](https://t.me/L1BER2Y)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:xerdan8@gmail.com)](mailto:xerdan8@gmail.com)
+
 Was studied on the course:
 
 - Http-protocol:
