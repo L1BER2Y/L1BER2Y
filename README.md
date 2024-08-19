@@ -7,7 +7,7 @@
 
 ## About me:
 - I'm novice developer, looking for career opportunities.
-- Passed Java Enterprise Development course by IT-Academy
+- Passed Java Enterprise Development course by IT-Academy.
 
 ## Was studied on the course:
 
