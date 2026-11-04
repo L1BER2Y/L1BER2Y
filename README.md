@@ -3,11 +3,12 @@
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uladzislau-shershan/)](https://www.linkedin.com/in/uladzislau-shershan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/L1BER2Y)](https://t.me/L1BER2Y)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:xerdan8@gmail.com)](mailto:xerdan8@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:xerdan8@gmail.com)](mailto:uladzislau.shershan@proton.me)
 
 ## About me:
-- I'm novice developer, looking for career opportunities.
-- Passed Java Enterprise Development course by IT-Academy.
+Java developer with ~2 years of commercial experience in iGaming. 
+Designed and implemented a dynamic configuration architecture for the platform’s core services, allowing new markets to be launched through configuration without code changes. 
+Proficient in the Spring ecosystem: built a system of 6 microservices on Spring Boot, implemented JWT-based authorization, added auditing via AOP, and covered the logic with ~100 automated tests.
 
 ## Was studied on the course:
 
